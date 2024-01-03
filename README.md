@@ -7,7 +7,7 @@ This repository contains LLM, ChatGPT, and other Generative AI related code and 
 
 ## Features
 
-- **Code 1**: [Function calling in ChatGPT to handle the response in predefined format]
+- **Code 1**: Function calling in ChatGPT to handle the response in predefined format, you can define your expected output format, by doing this you can avoid getting arbitrary/ hallucinated reponses from ChatGPT.
 
 ## LLM Tricks & Hacks for Efficient Usage
 
