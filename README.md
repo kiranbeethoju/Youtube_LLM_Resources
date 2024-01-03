@@ -3,7 +3,7 @@
 
 ## Introduction
 
-Welcome to [Your Project Name]! This repository contains [brief description of your project]. To stay updated and get the most out of this project, make sure to follow our YouTube channel and join our LinkedIn group.
+This repository contains LLM, ChatGPT, and other Generative AI related code and content. To stay updated and get the most out of this project, make sure to follow our YouTube channel and join our LinkedIn group.
 
 ## Features
 
