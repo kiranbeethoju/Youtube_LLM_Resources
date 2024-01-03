@@ -20,7 +20,7 @@ I will be providing tricks and hacks to optimize your usage of the openAI/LLM to
 To stay updated with the latest content, tips, tricks, and hacks:
 
 - Subscribe to our [YouTube Channel](https://www.youtube.com/teachingmachine) 🎥
-- Join our [LinkedIn Group](https://www.linkedin.com/in/kirankumarbeethoju/) 🌐
+- Join our [LinkedIn Group]([https://www.linkedin.com/in/kirankumarbeethoju/](https://www.linkedin.com/groups/14366551/)) 🌐
 
 By subscribing to our YouTube channel and joining our LinkedIn group, you'll get exclusive access to:
 
