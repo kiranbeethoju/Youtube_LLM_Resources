@@ -1,5 +1,5 @@
 
-# Welcome to the [Teaching Machine's] Repository! 👋
+# Welcome to the Teaching Machine's Repository! 👋
 
 ## Introduction
 
